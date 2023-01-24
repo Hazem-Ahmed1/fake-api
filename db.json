@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Hazem",
+      "username": "user@gmail.com",
+      "pass": "1234567",
+      "id": 1
+    }
+  ],
+  "employees": [
+    {
+      "Username": "hazem@gmail.com",
+      "pass": "123456",
+      "name": "hazem",
+      "URL": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "age": 20,
+      "id": 2000000,
+      "JobTitle": "FrontEnd"
+    }
+  ],
+  "articales": [
+    {
+      "article": " i want salary",
+      "id": "2022222"
+    },
+    {
+      "article": "new article",
+      "id": "20222"
+    },
+    {
+      "article": "new art 2",
+      "id": "20211"
+    }
+  ],
+  "managers": [
+    {
+      "name": "Tomaa",
+      "img": "https://www.jobiano.com/uploads/jobs/47550/marketing_image/office-manager-jobs-in-egypt-62ae3a7fc8b4f.jpg",
+      "username": "toma@gmail.com",
+      "passwordM": "123456",
+      "id": 1
+    }
+  ],
+  "Customers": [
+    {
+      "username": "hazem@gmail.com",
+      "password": "123456",
+      "name": "Hazem",
+      "id": 20210222,
+      "money": 20,
+      "projects": 1
+    }
+  ],
+  "tasks": [
+    {
+      "about": "do tasks",
+      "id": 2000000
+    }
+  ],
+  "admin": [
+    {
+      "username": "admin@gmail.com",
+      "password": 123
+    }
+  ]
+}
